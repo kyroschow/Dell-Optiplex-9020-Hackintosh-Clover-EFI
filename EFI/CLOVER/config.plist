@@ -235,7 +235,7 @@
 			<false/>
 		</dict>
 		<key>TextOnly</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>Graphics</key>
 	<dict>
