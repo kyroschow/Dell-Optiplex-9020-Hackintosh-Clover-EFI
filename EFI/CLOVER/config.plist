@@ -205,6 +205,8 @@
 	</array>
 	<key>GUI</key>
 	<dict>
+		<key>EmbeddedThemeType</key>
+		<string>Dark</string>
 		<key>Hide</key>
 		<array>
 			<string>Windows</string>
@@ -236,6 +238,8 @@
 		</dict>
 		<key>TextOnly</key>
 		<false/>
+		<key>Theme</key>
+		<string>embedded</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
